@@ -2,7 +2,6 @@ package com.sidharth.imagefetch
 
 import io.reactivex.Observable
 import retrofit2.http.GET
-import retrofit2.http.Path
 
 /**
  * Created by sidharthvinod on 24/05/17.
